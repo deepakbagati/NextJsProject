@@ -4,7 +4,7 @@ import {Spotlight} from "./ui/Spotlight"
 
 function HeroSection() {
   return (
-    <div className="h-auto md:h-[40rem] w-full rounded-md flex 
+    <div className="h-auto md:h-[50rem] w-full rounded-md flex 
     flex-col items-center justify-center relative overflow-hidden mx-auto py-10 
      md:py-0">
           <Spotlight
